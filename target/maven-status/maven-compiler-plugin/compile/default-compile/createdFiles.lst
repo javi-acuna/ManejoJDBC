@@ -1,0 +1,6 @@
+datos\Conexion.class
+datos\PersonaDao.class
+datos\PersonaDaoJDBC.class
+domain\PersonaDTO.class
+.netbeans_automatic_build
+test\TestPersonas.class
